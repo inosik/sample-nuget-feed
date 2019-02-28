@@ -1,0 +1,12 @@
+{
+  "username": "",
+  "useremail": "",
+  "sources": [
+    {
+      "name": "sample-nuget-feed",
+      "type": "local",
+      "path": "v3/",
+      "baseURI": "https://inosik.github.io/sample-nuget-feed"
+    }
+  ]
+}
