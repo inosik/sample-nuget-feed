@@ -6,7 +6,7 @@
       "name": "sample-nuget-feed",
       "type": "local",
       "path": "v3/",
-      "baseURI": "https://inosik.github.io/sample-nuget-feed"
+      "baseURI": "https://inosik.github.io/sample-nuget-feed/v3"
     }
   ]
 }
